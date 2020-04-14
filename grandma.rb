@@ -15,6 +15,8 @@
 def speak_to_grandma(phrase)
 if(phrase =="I LOVE YOU GRANDMA!")
   returns "I LOVE YOU TOO PUMPKIN"
-elseif(phrase == )
+elseif(phrase!=phrase.upcase)
+  returns "HUH?! SPEAK UP, SONNY!"
+  
   
   
